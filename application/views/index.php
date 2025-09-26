@@ -19,7 +19,7 @@
   <!-- count for key start -->
 
 
-  <section id="stats" class="stats section">
+  <section id="stats" class="stats section giz-counter-section">
     <div class="container aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 
       <!-- Event Location & Date -->
@@ -32,37 +32,45 @@
 
       <!-- Event Stats -->
       <div class="container pt-2">
-        <div class="row gy-4 justify-content-center">
+        <div class="row g-5 justify-content-center">
 
           <!-- Speakers -->
           <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100 shadow-sm rounded p-4">
-              <i class="bi bi-mic-fill flex-shrink-0 me-3"></i>
-              <div>
+            <div class="stats-item shadow-sm">
+
+              <div class="giz-counter-div">
                 <h4 class="mb-1 fw-bold counter text-white" data-target="60">0</h4>
-                <p class="mb-0 fw-semibold">Speakers</p>
+                <div class="d-flex align-items-center justify-content-center bar">
+                  <i class="bi bi-mic-fill flex-shrink-0 me-2"></i>
+                  <p class="mb-0 fw-semibold">Speakers</p>
+                </div>
               </div>
             </div>
           </div>
 
           <!-- Sessions -->
           <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100 shadow-sm rounded p-4">
-              <i class="bi bi-layout-text-window flex-shrink-0 me-3"></i>
-              <div>
+            <div class="stats-item shadow-sm center-div">
+
+              <div class="giz-counter-div">
                 <h4 class="mb-1 fw-bold counter text-white" data-target="20">0</h4>
-                <p class="mb-0 fw-semibold">Sessions</p>
+                <div class="d-flex align-items-center justify-content-center bar">
+                  <i class="bi bi-layout-text-window flex-shrink-0 me-2"></i>
+                  <p class="mb-0 fw-semibold">Sessions</p>
+                </div>
               </div>
             </div>
           </div>
 
           <!-- Participants -->
           <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100 shadow-sm rounded p-4">
-              <i class="bi bi-people-fill flex-shrink-0 me-3"></i>
-              <div>
+            <div class="stats-item shadow-sm">
+              <div class="giz-counter-div">
                 <h4 class="mb-1 fw-bold counter text-white" data-target="300">0</h4>
-                <p class="mb-0 fw-semibold">Participants</p>
+                <div class="d-flex align-items-center justify-content-center bar">
+                  <i class="bi bi-people-fill flex-shrink-0 me-2"></i>
+                  <p class="mb-0 fw-semibold">Participants</p>
+                </div>
               </div>
             </div>
           </div>
@@ -108,7 +116,7 @@
           <div class="container">
             <div class="content">
               <h2 class="section-heading mb-4 text-white">
-                About The Festival
+                About the festival
               </h2>
               <p class="lead">
                 The Urban Infrastructure Finance Festival 2025 is a crucial initiative that provides a platform for cities,
@@ -139,12 +147,58 @@
 
 
 
-  <section class="features-section text-center">
+  <section class="features-section ">
     <div class="container">
-      <h2 class="section-heading mb-5">
+      <h2 class="section-heading mb-4 text-center">
         Objectives
       </h2>
-      <div class="features-cards">
+      <!-- col-md-10 mx-auto -->
+      <div class="objective-wrapper ">
+        <div class="row justify-content-center">
+          <div class="col-md-6">
+            <div class="objective-div div-1">
+              <div class="left-div">
+                <img src="assets/img/resilient_cities.gif" alt="resilient_cities" class="img-fluid">
+              </div>
+              <div class="right-div">
+                <img src="assets/img/elements/outline-1.png" alt="element" class="outline">
+                <p class="mb-0">Enhancing municipal capacities to unlock innovative financing for resilient cities</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="objective-div div-2">
+              <div class="left-div">
+                <img src="assets/img/urban_infra.gif" alt="urban_infra" class="img-fluid">
+              </div>
+              <div class="right-div">
+                <img src="assets/img/elements/outline-2.png" alt="element" class="outline">
+                <p class="mb-0">Strengthening the urban infrastructure finance ecosystem by streamlining policies, regulations, & institutions</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-6">
+            <div class="objective-div div-3">
+              <div class="left-div">
+                <img src="assets/img/financial_institutions.gif" alt="financial_institutions" class="img-fluid">
+              </div>
+              <div class="right-div">
+                <img src="assets/img/elements/outline-3.png" alt="element" class="outline">
+                <p class="mb-0">Matchmaking platform for cities, and financial institutions</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="text-center">
+        <a href="about-us" class="btn-read-more mt-4">Learn More</a>
+      </div>
+
+
+      <!-- <div class="features-cards">
         <div class="feature-card">
           <div class="feature-icon">
             <i class="fas fa-database"></i>
@@ -167,90 +221,94 @@
 
           <p><b>Matchmaking platform for cities, and financial institutions</b></p>
         </div>
-      </div>
+      </div> -->
 
-      <a href="about-us" class="btn-read-more mt-md-5 mt-4">Learn More</a>
+
     </div>
   </section>
 
 
   <section class="parallax-banner festival-section">
 
-    <div id="stats" class="statssss section" style="position: relative; overflow: hidden; background: transparent;">
+    <div id="stats" class="statssss section pb-0" style="position: relative; overflow: hidden; background: transparent;">
       <div class="container aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 
         <!-- Title -->
-         <h2 class="section-heading mb-5 text-center text-white" data-aos="fade-up">Festival Starts In</h2>
+        <h2 class="section-heading mb-5 text-center text-white" data-aos="fade-up">Festival starts in</h2>
 
-        <!-- Countdown Stats -->
-        <div class="row gy-4 text-center">
+        <div class="col-md-10 mx-auto">
+          <!-- Countdown Stats -->
+          <div class="row gx-md-5 text-center">
 
-          <!-- Days -->
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center justify-content-center p-4 gap-3">
-              <i class="bi bi-calendar-event me-2"></i>
-              <div>
-                <span id="days">0</span>
-                <p><b>Days</b></p>
+            <!-- Days -->
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center justify-content-center ">
+                <!-- <i class="bi bi-calendar-event me-2"></i> -->
+                <div>
+                  <span id="days">0</span>
+                  <p><b>Days</b></p>
+                </div>
               </div>
             </div>
-          </div>
 
-          <!-- Hours -->
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center justify-content-center p-4 gap-3">
-              <i class="bi bi-clock-history me-2"></i>
-              <div>
-                <span id="hours">0</span>
-                <p><b>Hours</b></p>
+            <!-- Hours -->
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center justify-content-center ">
+                <!-- <i class="bi bi-clock-history me-2"></i> -->
+                <div>
+                  <span id="hours">0</span>
+                  <p><b>Hours</b></p>
+                </div>
               </div>
             </div>
-          </div>
 
-          <!-- Minutes -->
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center justify-content-center p-4 gap-3">
-              <i class="bi bi-stopwatch me-2"></i>
-              <div>
-                <span id="minutes">0</span>
-                <p><b>Minutes</b></p>
+            <!-- Minutes -->
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center justify-content-center ">
+                <!-- <i class="bi bi-stopwatch me-2"></i> -->
+                <div>
+                  <span id="minutes">0</span>
+                  <p><b>Minutes</b></p>
+                </div>
               </div>
             </div>
-          </div>
 
-          <!-- Seconds -->
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center justify-content-center p-4 gap-3">
-              <i class="bi bi-clock me-2"></i>
-              <div>
-                <span id="seconds">0</span>
-                <p><b>Seconds</b></p>
+            <!-- Seconds -->
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center justify-content-center ">
+                <!-- <i class="bi bi-clock me-2"></i> -->
+                <div>
+                  <span id="seconds">0</span>
+                  <p><b>Seconds</b></p>
+                </div>
               </div>
             </div>
+
           </div>
 
+          <div class="parallax-banner-content d-flex align-items-center justify-content-between pt-md-5 pt-3">
+
+            <!-- Left: Call to Action -->
+            <div class="bottom-left-text">
+
+              <!--Join the experience!<br>-->
+              <!--and -->
+              Discover more what's ahead...
+
+            </div>
+
+            <!-- Right: Buttons -->
+            <div class="bottom-right">
+              <!--<a style="background-color:#629e2d;" href="#" class="btn btn-primary btn-lg me-3">Registration</a>-->
+              <a href="programme" class="btn btn-read-more btn-white btn-lg">Agenda</a>
+            </div>
+
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="parallax-banner-content d-flex align-items-center justify-content-between">
 
-      <!-- Left: Call to Action -->
-      <div class="bottom-left-text">
-        
-          <!--Join the experience!<br>-->
-          <!--and -->
-          Discover more what's ahead...
-        
-      </div>
-
-      <!-- Right: Buttons -->
-      <div class="bottom-right">
-        <!--<a style="background-color:#629e2d;" href="#" class="btn btn-primary btn-lg me-3">Registration</a>-->
-        <a href="programme" class="btn btn-read-more btn-white btn-lg">Agenda</a>
-      </div>
-
-    </div>
 
   </section>
 
@@ -286,11 +344,11 @@
   <!-- Clients Section -->
 
 
-  <section class="pt-5 pb-5 text-center position-relative organised-by">
+  <section class="pt-5  text-center position-relative z-1 organised-by">
     <div class="container">
       <!-- Organized By -->
-        <h2 class="section-heading mb-5 text-center " data-aos="fade-up">Organized By</h2>
-     
+      <h2 class="section-heading mb-5 text-center " data-aos="fade-up">Organized by</h2>
+
 
       <div class="row justify-content-center g-4">
         <!-- Logo 1 -->
@@ -356,10 +414,26 @@
       <!--  </div>-->
       <!--</div>-->
 
+
       <div class="wind-chime">
         <img src="assets/img/elements/stand-1.svg" alt="element" class="ele-1">
-        <img src="assets/img/elements/rotator-1.svg" alt="element" class="ele-2">
+        <!-- <img src="assets/img/elements/rotator-1.svg" alt="element" class="ele-2"> -->
+        <img src="assets/img/elements/dot.svg" alt="element" class="dot">
+        <div class="blades-container">
+          <img src="assets/img/elements/blade.svg" alt="element" class="blade">
+          <img src="assets/img/elements/blade.svg" alt="element" class="blade">
+          <img src="assets/img/elements/blade.svg" alt="element" class="blade">
+        </div>
       </div>
+
+      <!-- <div class="vehicle">
+        <img src="assets/img/elements/vehicle-1.svg" alt="element" class="vehicle-1">
+      </div> -->
+
+      <img src="assets/img/elements/bg-building.svg" alt="element" class="building-1">
+      <!-- <img src="assets/img/elements/car-1.svg" alt="element" class="car-1"> -->
+
+      <!-- <img src="assets/img/elements/tower.svg" alt="element" class="tower"> -->
   </section>
 
 
@@ -377,7 +451,7 @@
 </main>
 
 <style>
- 
+
 </style>
 <script>
   // Set the event date (29 October 2025)

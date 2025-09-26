@@ -1,20 +1,23 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 
-<footer id="footer" class="footer mt-5">
+<footer id="footer" class="footer">
 
   <div class="container text-center mt-4">
     <p>
-       <a href="legal" class="text-white">
-         Data Protection | Imprint</a>
+      <a href="legal" class="text-white">
+        Data Protection | Imprint</a>
     </p>
 
     <div class="credits">
-      <p class="mb-0">
-          <a href="https://www.linkedin.com" target="_blank" class="text-white">
+      <p class="my-2">
+        <a href="https://www.linkedin.com" target="_blank" class="text-white">
           <i class="bi bi-linkedin"></i> LinkedIn
-        </a> &nbsp;|&nbsp;
-        Designed by <a href="https://www.ia-meetings.com/" target="_blank" class="text-white">IA-meetings</a> 
+        </a>
+      </p>
+      <p class="mb-0">
+
+        Designed by <a href="https://www.ia-meetings.com/" target="_blank" class="text-white">IA-meetings</a>
       </p>
     </div>
   </div>

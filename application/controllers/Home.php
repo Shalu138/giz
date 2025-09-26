@@ -23,6 +23,21 @@ class Home extends CI_Controller {
 	 
 	    $this->load->view("includes/template", $data);
 	}
+
+	public function login()
+	{
+	  	$data["main_content"]="login";
+	 
+	    $this->load->view("includes/template", $data);
+	}
+
+	public function thankyou()
+	{
+	  	$data["main_content"]="thankyou";
+	 
+	    $this->load->view("includes/template", $data);
+	}
+	
 	
 		public function speakers()
 	{

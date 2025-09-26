@@ -63,6 +63,8 @@ $route['admin/checkmobilenumber.html']='Admin/checknumbers';
 /////////////////////////////////End Admin URL//////////////////////////
 
 $route['about-us']='Home/about_us';
+$route['login']='Home/login';
+$route['thankyou']='Home/thankyou';
 $route['index']='Home/index';
 $route['legal']='Home/legal';
 $route['speakers']='Home/speakers';
