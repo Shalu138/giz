@@ -88,16 +88,18 @@
   <!-- Modal 1 -->
   <div class="modal fade custom-popup" id="popup1" tabindex="-1">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content">
+      <div class="modal-content overflow-hidden">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
         <div class="row g-0">
-
-          <div class="col-md-6 d-flex justify-content-center align-items-center">
+          <div class="col-md-6 d-flex justify-content-center align-items-end">
             <img src="assets/img/about/accessing-capital-markets.png" style="width: 100%;  object-fit: cover;" alt="Pillar 1 Image">
           </div>
 
-          <div class="col-md-6 d-flex align-items-center p-4">
+          <div class="col-md-6 d-flex align-items-end p-4 bg-theme-light">
             <div>
-              <h3 class="section-heading">Accessing Capital Markets with Municipal Bonds and Pooled Financing</h3>
+              <h3 class="section-heading mb-3">Accessing Capital Markets with Municipal Bonds and Pooled Financing</h3>
               <p>
                 With many Indian cities leading the way in municipal bond issuances and state governments coming up with pooled bond issuances, this theme draws from best practices to build capacity among Indian cities to tap into capital markets. Discussions will unpack the regulatory, institutional, and technical preconditions required to issue municipal bonds, explore pooled financing models, and improve investor confidence through better credit ratings and financial transparency.
               </p>
@@ -110,13 +112,16 @@
   </div>
 
   <!-- Modal 2 -->
-  <div class="modal fade" id="popup2" tabindex="-1" aria-labelledby="popup2Label" aria-hidden="true">
+  <div class="modal fade custom-popup" id="popup2" tabindex="-1" aria-labelledby="popup2Label" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content">
+      <div class="modal-content overflow-hidden">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
         <div class="row g-0">
 
           <!-- Image Section -->
-          <div class="col-md-6 d-flex justify-content-center align-items-center bg-light">
+          <div class="col-md-6 d-flex justify-content-center align-items-end bg-light">
             <img src="assets/img/about/unlocking-multilateral.png"
               class="img-fluid rounded"
               alt="Pillar 2 Image"
@@ -124,9 +129,9 @@
           </div>
 
           <!-- Content Section -->
-          <div class="col-md-6 d-flex align-items-center p-4">
+          <div class="col-md-6 d-flex align-items-end p-4 bg-theme-light">
             <div>
-              <h3 style="color:#244f29" id="popup2Label" class="mb-3">Unlocking Multilateral and Climate Finance and Demystifying PPPs</h3>
+              <h3 class="section-heading mb-3" id="popup2Label" class="mb-3">Unlocking Multilateral and Climate Finance and Demystifying PPPs</h3>
               <p class="mb-0">
                 This track will equip cities to access climate-aligned and multilateral funding by aligning projects with global climate goals and donor criteria.
                 It covers engaging with institutions like the Green Climate Fund and World Bank, preparing strong proposals, leveraging concessional finance, and bundling small-scale projects for funding.
@@ -143,9 +148,12 @@
 
 
   <!-- Modal 3 -->
-  <div class="modal fade" id="popup3" tabindex="-1" aria-labelledby="popup3Label" aria-hidden="true">
+  <div class="modal fade custom-popup" id="popup3" tabindex="-1" aria-labelledby="popup3Label" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content">
+      <div class="modal-content overflow-hidden">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
         <div class="row g-0">
 
           <!-- Image Section -->
@@ -157,9 +165,9 @@
           </div>
 
           <!-- Content Section -->
-          <div class="col-md-6 d-flex align-items-center p-4">
+          <div class="col-md-6 d-flex align-items-center p-4 bg-theme-light">
             <div>
-              <h3 style="color:#244f29" id="popup3Label" class="mb-3">Utilizing the Full Potential of Central and State Schemes and Grants</h3>
+              <h3 class="section-heading mb-3" id="popup3Label" class="mb-3">Utilizing the Full Potential of Central and State Schemes and Grants</h3>
               <p class="mb-0">
                 Despite a wide array of central and state government schemes, many cities are unable to fully access or utilize available grants due to capacity constraints or lack of awareness.
                 This theme explores ways to improve uptake, streamline application processes, and integrate schemes effectively with external financing options.
@@ -180,9 +188,9 @@
   <section id="why-it-matters" class="zones section bg-theme-light">
     <div class="container text-center">
       <h2 class="section-heading mb-5">
-          <!--Climate change mitigation and adaptation, Urban resilience and Access to finance -->
-          Why it matters
-          </h2>
+        <!--Climate change mitigation and adaptation, Urban resilience and Access to finance -->
+        Why it matters
+      </h2>
     </div>
     <!-- <div class="container section-title text-center mb-5" data-aos="fade-up">
     <p class="fw-bold" style="color:#333; font-size: 2.5rem;"></p>
@@ -228,16 +236,19 @@
 
 
   <!-- Modal 1 -->
-  <div class="modal fade" id="matter1" tabindex="-1">
+  <div class="modal fade custom-popup" id="matter1" tabindex="-1">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content">
-        <div class="row g-0">
+      <div class="modal-content overflow-hidden">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+        <div class="row g-0 align-items-end">
           <div class="col-md-6">
             <img src="assets/img/about/climate-change-mitigation.png" style="object-fit: cover; width: 400px;" alt="Climate">
           </div>
-          <div class="col-md-6 d-flex align-items-center p-4">
+          <div class="col-md-6 d-flex align-items-end p-4 bg-theme-light">
             <div>
-              <h3 style="color:#244f29">Climate change Mitigation and Adaptation</h3>
+              <h3 class="section-heading mb-3">Climate change Mitigation and Adaptation</h3>
               <p>
                 Tackling climate change is essential for creating sustainable cities and protecting future generations.
                 Action on climate ensures cleaner air, healthier living, and resilience against global warming.
@@ -250,16 +261,19 @@
   </div>
 
   <!-- Modal 2 -->
-  <div class="modal fade" id="matter2" tabindex="-1">
+  <div class="modal fade custom-popup" id="matter2" tabindex="-1">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content">
+      <div class="modal-content overflow-hidden">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
         <div class="row g-0">
           <div class="col-md-6">
             <img src="assets/img/about/urban-resilience.png" class="img-fluid h-100 w-100" style="object-fit: cover; " alt="Urban resilience">
           </div>
-          <div class="col-md-6 d-flex align-items-center p-4">
+          <div class="col-md-6 d-flex align-items-center p-4 bg-theme-light">
             <div>
-              <h3 style="color:#244f29">Urban Resilience</h3>
+              <h3 class="section-heading mb-3">Urban Resilience</h3>
               <p>
                 Building urban resilience helps cities withstand shocks such as natural disasters,
                 pandemics, and rapid urbanization while ensuring sustainable development and community well-being.
@@ -272,16 +286,19 @@
   </div>
 
   <!-- Modal 3 -->
-  <div class="modal fade" id="matter3" tabindex="-1">
+  <div class="modal fade custom-popup" id="matter3" tabindex="-1">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content">
+      <div class="modal-content overflow-hidden">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
         <div class="row g-0">
           <div class="col-md-6">
             <img src="assets/img/about/access-to-finance.png" style="object-fit: cover; width: 400px;" alt="Finance access">
           </div>
-          <div class="col-md-6 d-flex align-items-center p-4">
+          <div class="col-md-6 d-flex align-items-center p-4 bg-theme-light">
             <div>
-              <h3 style="color:#244f29">Access to Finance</h3>
+              <h3 class="section-heading mb-3">Access to Finance</h3>
               <p>
                 Expanding access to finance ensures that both cities and citizens can invest in infrastructure,
                 innovation, and sustainable practices, driving inclusive economic growth and opportunities.

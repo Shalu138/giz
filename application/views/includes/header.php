@@ -35,7 +35,7 @@
 <body class="index-page">
 
   <!-- Top Strip Start -->
-  <div class="top-strip bg-white border-bottom py-1 px-3 sticky-top" style="z-index: 1051;">
+  <div class="top-strip bg-white border-bottom py-1 px-3 sticky-top">
     <div class="container-fluid d-flex justify-content-between align-items-center py-2 px-4">
       <!-- Left logo -->
       <div class="left-logo">
