@@ -5,13 +5,13 @@
 
   <div class="container text-center mt-4">
     <p>
-      <a href="legal" class="text-white">
+      <a href="contact" class="text-white">
         Data Protection | Imprint</a>
     </p>
 
     <div class="credits">
       <p class="my-2">
-        <a href="https://www.linkedin.com" target="_blank" class="text-white">
+        <a href="https://www.linkedin.com/company/ieup/?viewAsMember=true" target="_blank" class="text-white">
           <i class="bi bi-linkedin"></i> LinkedIn
         </a>
       </p>
@@ -43,6 +43,44 @@
 <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
 <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 
 <!-- Main JS File -->
 <script src="assets/js/main.js"></script>
+
+
+
+<script>
+  $(document).ready(function() {
+    var bubbleList = $('.bubble-container');
+    const bubbleCount = bubbleList.length;
+    const degStep = 180 / (bubbleCount - 1);
+
+    $('.bubble-container').each((index) => {
+      const deg = index * degStep;
+      const invertDeg = deg * -1;
+
+      $(bubbleList[index]).css('transform', `rotate(${deg}deg)`);
+      $(bubbleList[index]).css('opacity', `1`);
+      $(bubbleList[index]).find('.bubble').css('transform', `rotate(${invertDeg}deg)`);
+    })
+  })
+</script>
+
+
+    <script>
+        $(".nav-link").on("click", function() {
+            var transformLeft = $(this).attr("data-trasform");
+            $(".nav-tab-slider .slider").css({
+                transform: "translateX(" + transformLeft + "%)",
+            });
+        });
+
+        $("#pills-tab .nav-link").on("click", function() {
+            //   console.log($(this).attr("data-trasform"));
+            var transformLeft = $(this).attr("data-trasform");
+            $(".nav-tab-slider .slider").css({
+                transform: "translateX(" + transformLeft + "%)",
+            });
+        });
+    </script>

@@ -8,9 +8,7 @@
     <div class="main-container centralized">
       <div class="main-circle">
         <div class="inner centralized">
-          <h2 class="section-heading text-center">
-            Key Thematic <br />Pillars
-          </h2>
+         Key Thematic <br />Pillars
         </div>
       </div>
       <div class="bubble-container centralized blue-dark">
@@ -21,10 +19,7 @@
         </div>
         <div class="bubble centralized">
           <div class="inner centralized">
-            <div>
-              <img src="assets/img/icons/icon-1.png" alt="icon" class="img-fluid mb-2 icon">
-              <p>Accessing Capital Markets with Municipal Bonds and Pooled Financing</p>
-            </div>
+            Source I
           </div>
         </div>
       </div>
@@ -36,11 +31,7 @@
         </div>
         <div class="bubble centralized">
           <div class="inner centralized">
-            <div>
-              <img src="assets/img/icons/icon-2.png" alt="icon" class="img-fluid mb-2 icon">
-              <p>Unlocking Multilateral and Climate Finance, and Demystifying PPPs</p>
-            </div>
-
+            Source II
           </div>
         </div>
       </div>
@@ -52,11 +43,7 @@
         </div>
         <div class="bubble centralized">
           <div class="inner centralized">
-            <div>
-              <img src="assets/img/icons/icon-3.png" alt="icon" class="img-fluid mb-2 icon">
-              <p>Utilizing the Full Potential of Central and State Schemes and Grants</p>
-            </div>
-
+            Source III
           </div>
         </div>
       </div>
@@ -68,21 +55,21 @@
         </div>
         <div class="bubble centralized">
           <div class="inner centralized">
-            <div>
-              <img src="assets/img/icons/icon-4.png" alt="icon" class="img-fluid mb-2 icon">
-              <p>Cross-Cutting Sessions Covering Multiple Financing Channels</p>
-            </div>
+            Source IV
           </div>
         </div>
       </div>
+
+
     </div>
   </div>
 </section>
 
-<!-- <section class="">
+<section class="">
   <h2 class="pillar-title">Key Thematic Pillars</h2>
 
   <div class="pillar-row">
+    <!-- Card 1 -->
     <div class="pillar-card">
       <div class="pillar-icon">
         <img src="https://cdn-icons-png.flaticon.com/512/10017/10017692.png" alt="Analytics Icon" style="width: 40px; height: 40px;">
@@ -93,7 +80,7 @@
       </div>
     </div>
 
-
+    <!-- Card 2 -->
     <div class="pillar-card">
       <div class="pillar-icon"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJ0EAA9qJJaA7KIUgfU8OXcn-k3gLusCapWvC1ksVFLSL9r8o" alt="Analytics Icon" style="width: 40px; height: 40px;"></div>
       <div class="pillar-body">
@@ -101,7 +88,7 @@
       </div>
     </div>
 
-  
+    <!-- Card 3 -->
     <div class="pillar-card">
       <div class="pillar-icon">
         <img src="https://xplorio.com/xplorio/categories/29866/Building%20_%20Construction.jpg?width=300&height=300" alt="Analytics Icon" style="width: 40px; height: 40px;">
@@ -112,7 +99,7 @@
       </div>
     </div>
 
-   
+    <!-- Card 4 -->
     <div class="pillar-card">
       <div class="pillar-icon">
         <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxlltqvnevlaFKqFdBBV6B1CNyqlES9vuDBxe3My1LB3X3PZgD" alt="Analytics Icon" style="width: 40px; height: 40px;">
@@ -122,519 +109,12 @@
       </div>
     </div>
   </div>
-</section> -->
-
-<section class="agenda-section bg-theme-light ">
-  <div class="container">
-    <h2 class="section-heading mb-md-5 text-center">Agenda</h2>
-
-    <div class="col-md-8 mx-auto custom-tab">
-      <ul class="nav nav-pills mb-5 mt-2" id="pills-tab" role="tablist">
-        <button class="nav-link active" id="pill-tab1" data-bs-toggle="pill" data-bs-target="#pills-1" type="button" role="tab" aria-controls="pills-1" aria-selected="true" data-trasform="0">Day 1 - <span>28<sup>th</sup> October 2025</span></button>
-        <button class="nav-link" id="pills-tab2" data-bs-toggle="pill" data-bs-target="#pills-2" type="button" role="tab" aria-controls="pills-2" aria-selected="false" data-trasform="100">Day 2 - <span>29<sup>th</sup> October 2025</span></button>
-
-
-
-        <div class="nav-tab-slider">
-          <div class="slider" style="transform: translateX(0%);"></div>
-        </div>
-      </ul>
-    </div>
-    <div class="tab-content" id="pills-tabContent">
-      <div class="tab-pane fade show active" id="pills-1" role="tabpanel" aria-labelledby="pill-tab1">
-        <div class="table-responsive custom-table">
-          <table class="table  agenda-table table-responsive mb-0">
-            <tbody>
-              <tr>
-                <td>
-                  <div class="date">
-                    09:00- 10:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0">Registration </h5>
-                  </div>
-                </td>
-              </tr>
-
-              <tr>
-                <td>
-                  <div class="date">
-                    10:00 - 10:45
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5>Inaugural Session </h5>
-                    <p>
-                      <b>Welcome address: </b> <br />
-                      Shri Srinivas Katikithala, IAS, Secretary, MoHUA, Govt of India
-                    </p>
-                    <p>
-                      <b>Opening Remarks: </b> <br />
-                      H.E. Herve Delphin, Ambassador, Delegation of the European Union to India and Bhutan
-                    </p>
-                    <p>
-                      <b>Special address and Launch of Initiatives under the India-EU Urban Partnership:</b> <br />
-                      Shri Tokhan Sahu, Minister of State, MoHUA, Govt of India
-                    </p>
-                    <p>
-                      <b>Vote of thanks: </b> <br />
-                      Smt. D. Thara, IAS, Additional Secretary, MoHUA, Govt of India
-                    </p>
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-              </tr>
-
-
-
-              <tr>
-                <td>
-                  <div class="date">
-                    10:45 - 11:45
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list green">
-                    <img src="assets/img/icons/icon-4.png" alt="keynote icon" class="key-icon">
-                    <h5>Keynote & Main Panel:</h5>
-                    <p>
-                      <i>“Accelerating Urban Infrastructure Investments for Climate-Resilient and Gender-Inclusive Cities”</i>
-                    </p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-              </tr>
-
-
-              <tr>
-                <td>
-                  <div class="date">
-                    11:45 - 12:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0"> Tea/Coffee Break </h5>
-                  </div>
-                </td>
-              </tr>
-
-
-
-              <tr>
-                <td>
-                  <div class="date">
-                    12:00 - 13:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list green">
-                    <img src="assets/img/icons/icon-4.png" alt="keynote icon" class="key-icon">
-                    <h5> Panel Discussion: </h5>
-
-                    <p><i>“Infrastructure Financing Options for Urban Public Services that are Climate-Resilient and Gender-Inclusive”</i></p>
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    13:00 - 14:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0"> Networking Lunch </h5>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    14:00 - 15:00
-                  </div>
-                </td>
-                <td>
-                  <div class="agenda-list green">
-                    <img src="assets/img/icons/icon-4.png" alt="keynote icon" class="key-icon">
-                    <h5> Panel Discussion:</h5>
-                    <p><i>“Urban Reforms as Prerequisites for Infrastructure Financing - Strengthening Municipal Finance”</i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-
-                <td>
-                  <div class="agenda-list purple">
-                    <img src="assets/img/icons/icon-1.png" alt="keynote icon" class="key-icon">
-                    <h5> Case Study Presentations:</h5>
-                    <p><i>“Accessing Municipal Bonds and Leveraging Pooled Finance” </i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Breakout Room
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    15:00 - 16:00
-                  </div>
-                </td>
-                <td>
-                  <div class="agenda-list purple">
-                    <img src="assets/img/icons/icon-2.png" alt="keynote icon" class="key-icon">
-                    <h5> Fireside Chat:</h5>
-                    <p><i>“Global Funding for Local Projects - Investing in India”</i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-
-                <td>
-                  <div class="agenda-list">
-                    <img src="assets/img/icons/icon-1.png" alt="keynote icon" class="key-icon">
-                    <h5> Panel Discussion:</h5>
-                    <p><i>“Aligning Capex and Opex for sustainable financing”</i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Breakout Room
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    16:00 - 16:15
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0"> Tea/Coffee Break </h5>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    16:15 - 17:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list purple">
-                    <img src="assets/img/icons/icon-4.png" alt="keynote icon" class="key-icon">
-                    <h5>Masterclass: </h5>
-                    <p><i>“Fundamentals on designing bankable infrastructure projects for climate-resilient and gender-inclusive cities” </i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    17:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0"> Closing of Day 1 </h5>
-
-                  </div>
-                </td>
-              </tr>
-
-            </tbody>
-          </table>
-        </div>
-      </div>
-      
-  
-
-
-      <div class="tab-pane fade" id="pills-2" role="tabpanel" aria-labelledby="pills-tab2">
-        <div class="table-responsive custom-table">
-          <table class="table  agenda-table table-responsive mb-0">
-            <tbody>
-              <tr>
-                <td>
-                  <div class="date">
-                    08:30 - 09:30
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0">Registration </h5>
-                  </div>
-                </td>
-              </tr>
-
-              <tr>
-                <td>
-                  <div class="date">
-                    09:30 - 10:30
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list green">
-                    <img src="assets/img/icons/icon-3.png" alt="keynote icon" class="key-icon">
-                    <h5>Keynote & Main Panel: </h5>
-                    <p>
-                      <i>"Utilizing the full potential of central and state government schemes”</i>
-                    </p>
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-              </tr>
-
-
-
-              <tr>
-                <td>
-                  <div class="date">
-                    10:30 - 11:30
-                  </div>
-                </td>
-                <td>
-                  <div class="agenda-list green">
-                    <img src="assets/img/icons/icon-2.png" alt="keynote icon" class="key-icon">
-                    <h5>Panel Discussion: </h5>
-                    <p>
-                      <i>“De-risking Urban Infrastructure Investment in Emerging Cities” </i>
-                    </p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-
-                <td>
-                  <div class="agenda-list blue">
-                    <img src="assets/img/icons/icon-2.png" alt="keynote icon" class="key-icon">
-                    <h5>Shark Tank: </h5>
-                    <p>
-                      <i>“Presentation of potential bankable infrastructure projects of cities to Financial Institutions ” </i>
-                    </p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Breakout Room
-                    </div>
-                  </div>
-                </td>
-              </tr>
-
-
-              <tr>
-                <td>
-                  <div class="date">
-                    11:30 - 12:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0"> Tea/Coffee Break </h5>
-                  </div>
-                </td>
-              </tr>
-
-
-
-              <tr>
-                <td>
-                  <div class="date">
-                    12:00 - 13:00
-                  </div>
-                </td>
-                <td>
-                  <div class="agenda-list green">
-                    <img src="assets/img/icons/icon-4.png" alt="keynote icon" class="key-icon">
-                    <h5> Panel Discussion: </h5>
-
-                    <p><i>“Infrastructure Financing Options for Inclusive and Accessible Public Transport”</i></p>
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-
-
-                <td>
-                  <div class="agenda-list">
-                    <h5> Partner Session: </h5>
-
-                    <p><i>“Launch of the IURC” </i></p>
-                    <div class="hall">
-                      <b>Hall:</b> Breakout Room
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    13:00 - 14:00
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0"> Networking Lunch </h5>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    14:00 - 15:00
-                  </div>
-                </td>
-                <td>
-                  <div class="agenda-list">
-                    <img src="assets/img/icons/icon-3.png" alt="keynote icon" class="key-icon">
-                    <h5> Panel Discussion:</h5>
-                    <p><i>“Building the Backbone: Investing in Affordable Housing as Infrastructure for Climate-Ready Cities” </i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-
-                <td>
-                  <div class="agenda-list purple">
-                    <img src="assets/img/icons/icon-4.png" alt="keynote icon" class="key-icon">
-                    <h5> Case Study Presentations:</h5>
-                    <p><i>“Embedding Resilience in Urban Infrastructure” </i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Breakout Room
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    15:00 - 16:00
-                  </div>
-                </td>
-                <td>
-                  <div class="agenda-list grey">
-                    <img src="assets/img/icons/icon-2.png" alt="keynote icon" class="key-icon">
-                    <h5> Partner Session:</h5>
-                    <p><i>“EU Technical Assistance for Climate-Resilient Urban Infrastructure: Insights from CITIIS 2.0 and CPPF”</i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-
-                <td>
-                  <div class="agenda-list">
-                    <img src="assets/img/icons/icon-2.png" alt="keynote icon" class="key-icon">
-                    <h5> Partner Session: </h5>
-                    <p><i>“Lessons Learned from C40 Cities Finance Facility (CFF)” </i></p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Breakout Room
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    16:00 - 16:15
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5 class="mb-0"> Tea/Coffee Break </h5>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div class="date">
-                    16:15 - 16:45
-                  </div>
-                </td>
-                <td colspan="2">
-                  <div class="agenda-list">
-                    <h5>Conclusion and Way Forward Session </h5>
-                    <p><b>Reflections: </b><br />
-                      H.E. Dr Philipp Ackermann, Ambassador to India and Bhutan, Embassy of the Federal Republic of Germany </p>
-
-                    <p><b>Closing remarks: </b><br />
-                      Mr Franck Viault, Minister Counsellor Head of Cooperation, Delegation of the European Union to India and Bhutan </p>
-                    <p><b>Way forward: </b><br />
-                      Shri Kuldip Narayan, IAS, Joint Secretary, MoHUA, Govt of India </p>
-
-                    <p><b>Vote of thanks: </b><br />
-                      Dr Julie Reviere, Country Director, GIZ </p>
-
-                    <div class="hall">
-                      <b>Hall:</b> Plenary Hall
-                    </div>
-                  </div>
-                </td>
-              </tr>
-
-
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
-    
-    
-        <style>
-          .note {
-              /*font-weight: 600;*/
-              font-style: itallic;
-              margin: 0 25px;
-    /*transform: skewX(-10deg);*/
-}
-      </style>
-    <div class="col-md-12  mx-auto">
-            <div class="note">
-                <p class="mb-0"><b>Note:</b> Agenda timings are as per IST.</p>
-            </div>
-        </div>
- 
-    <!-- Download Agenda Button -->
-    <center class="mt-3">
-      <button class="btn btn-read-more" id="download-agenda" type="button">Download Agenda</button>
-    </center>
-  </div>
 </section>
 
 
 
 <!-- Agenda Section -->
-<section class="section" style="display: none;">
+<section class="section">
   <div class="container">
     <div class="row">
 
@@ -2333,7 +1813,10 @@
 </section>
 
 
-
+<!-- Download Agenda Button -->
+<center class="mb-3">
+  <button class="btn btn-read-more" id="download-agenda" type="button">Download Agenda</button>
+</center>
 </main>
 
 <!-- Styles -->
@@ -2375,12 +1858,12 @@
     border-radius: 6px;
   }
 
-  /* .section-heading {
+  .section-heading {
     font-weight: bold;
     color: #444;
     border-bottom: 2px solid #f7665e;
     padding-bottom: 6px;
-  } */
+  }
 
   .session-box {
     padding: 10px;
@@ -2586,3 +2069,5 @@
     }
   }
 </style>
+
+

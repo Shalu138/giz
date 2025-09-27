@@ -57,6 +57,12 @@ class Home extends CI_Controller {
 	 
 	    $this->load->view("includes/template", $data);
 	}
+		public function contact()
+	{
+	  	$data["main_content"]="contact";
+	 
+	    $this->load->view("includes/template", $data);
+	}
 	
 		public function venue()
 	{

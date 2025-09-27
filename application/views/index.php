@@ -174,7 +174,7 @@
               </div>
               <div class="right-div">
                 <img src="assets/img/elements/outline-2.png" alt="element" class="outline">
-                <p class="mb-0">Strengthening the urban infrastructure finance ecosystem by streamlining policies, regulations, & institutions</p>
+                <p class="mb-0">Strengthening the urban infrastructure finance ecosystem by streamlining policies, regulations, and institutions</p>
               </div>
             </div>
           </div>
@@ -194,7 +194,7 @@
         </div>
       </div>
       <div class="text-center">
-        <a href="about-us" class="btn-read-more mt-4">Learn More</a>
+        <a href="about-us" class="btn-read-more mt-4">Learn more</a>
       </div>
 
 
@@ -293,7 +293,7 @@
 
               <!--Join the experience!<br>-->
               <!--and -->
-              Discover more what's ahead...
+             Discover what's ahead...
 
             </div>
 

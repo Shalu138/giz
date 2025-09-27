@@ -1,31 +1,25 @@
 <!-- Include AOS CSS in <head> -->
 <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
 
-<main class="main mt-5">
+<main class="main">
 
   <!-- Hero Banner -->
-  <section class="innerpage-banner mt-6" 
-           style="background: url('assets/img/backkk.png') center center/cover no-repeat; 
-                  padding: 100px 0; 
-                  color: #fff; 
-                  text-align: center;">
-    <div class="container">
-      <h1 class="white">Venue</h1>
-    </div>
-  </section>
+  <div class="innerpage-banner mt-6">
+    <img src="assets/img/inner-banner.jpg" alt="banner-image" class="w-100">
+  </div>
 
   <!-- ================= HOW TO REACH ================= -->
   <!--<section class="how-to-reach py-5 mt-5" -->
   <!--         style="background: url('assets/img/Group 39465.png') center/cover no-repeat; position: relative;">-->
-    <!-- Gradient Overlay -->
+  <!-- Gradient Overlay -->
   <!--  <div style="background: linear-gradient(to right, rgba(0,0,0,0.75), rgba(0,0,0,0.5)); position: absolute; inset: 0;"></div>-->
 
   <!--  <div class="container position-relative">-->
-      <!-- Section Heading -->
+  <!-- Section Heading -->
   <!--    <h2 class="text-center mb-5 fw-bold text-white" data-aos="fade-down">How to Reach</h2>-->
 
   <!--    <div class="row text-center">-->
-        <!-- By Metro -->
+  <!-- By Metro -->
   <!--      <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">-->
   <!--        <div class="reach-card p-4 rounded h-100">-->
   <!--          <div class="icon-circle mb-3 mx-auto" style="background:#629e2d;">-->
@@ -36,7 +30,7 @@
   <!--        </div>-->
   <!--      </div>-->
 
-        <!-- By Air -->
+  <!-- By Air -->
   <!--      <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">-->
   <!--        <div class="reach-card p-4 rounded h-100">-->
   <!--          <div class="icon-circle mb-3 mx-auto" style="background:#629e2d;">-->
@@ -47,7 +41,7 @@
   <!--        </div>-->
   <!--      </div>-->
 
-        <!-- By Local Transport -->
+  <!-- By Local Transport -->
   <!--      <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="300">-->
   <!--        <div class="reach-card p-4 rounded h-100">-->
   <!--          <div class="icon-circle mb-3 mx-auto" style="background:#629e2d;">-->
@@ -60,7 +54,7 @@
   <!--    </div>-->
   <!--  </div>-->
 
-    <!-- Custom CSS -->
+  <!-- Custom CSS -->
   <!--  <style>-->
   <!--    .reach-card {-->
   <!--      background: rgba(255, 255, 255, 0.1);-->
@@ -87,27 +81,45 @@
   <!--</section>-->
 
   <!-- ================= VENUE DETAILS ================= -->
-  <section class="venue-section py-5" style="background-color: #f6f8f5;">
+  <section class="venue-section py-5">
     <div class="container">
-      <h2 class="text-center mb-5 fw-bold" style="color:#629e2d;" data-aos="fade-down">Venue Details</h2>
-      <div class="row align-items-center">
+      <h2 class="text-center mb-5 fw-bold" style="color:#2d9fab;" data-aos="fade-down">Venue details</h2>
+      <div class="row g-0 shadow-lg rounded overflow-hidde">
         <!-- Venue Info -->
         <div class="col-md-6 mb-4" data-aos="fade-right" data-aos-duration="800">
-          <div class="bg-white rounded shadow-sm p-4 h-100">
-            <h4 class="fw-bold mb-3" style="color:#629e2d;">ABC Convention Center</h4>
-            <p><i class="fas fa-map-marker-alt me-2" style="color:#629e2d;"></i>
-              ABC Convention Center, XYZ Road, Connaught Place,<br>New Delhi – 110001, India
+          <div class="bg-white p-4 h-100">
+            <h4 class="fw-bold mb-3" style="color:#2d9fab;">Hyatt Regency Delhi</h4>
+            <p class="d-flex"><i class="fas fa-map-marker-alt me-md-4 me-2 mt-1" style="color:#2d9fab;"></i>
+              Bhikaiji Cama Place, Ring Road,
+              <br>New Delhi - 110066, India
             </p>
-            <p><i class="fas fa-phone-alt me-2" style="color:#629e2d;"></i> +91-12345-67890</p>
+            <!-- <p><i class="fas fa-phone-alt me-2" style="color:#2d9fab;"></i> +91-12345-67890</p> -->
+
+            <div class="how-to-get-there">
+
+              <h3 class="heading3 mb-4">Getting there</h3>
+              <div class="d-flex align-items-center mb-3">
+                <!-- <img src="assets/img/icons/mrt.png" alt="icon" class="img-fluid icon"> -->
+                 <i class="fa-solid fa-plane icon"></i>
+                <span>Indira Gandhi International Airport (DEL) <i class="fa-solid fa-arrow-right-long"></i> <b>9.5 kilometers</b></span>
+              </div>
+              <div class="d-flex align-items-center">
+                <!-- <img src="assets/img/icons/bus-transport.png" alt="icon" class="img-fluid icon"> -->
+                 <i class="fa-solid fa-train icon"></i>
+                <span>New Delhi Railway Station <i class="fa-solid fa-arrow-right-long"></i> <b>11.9 kilometers</b></span>
+              </div>
+            </div>
           </div>
         </div>
 
         <!-- Google Map -->
-        <div class="col-md-6 mb-4" data-aos="fade-left" data-aos-duration="800">
-          <div class="ratio ratio-4x3 shadow-sm rounded border" style="border:2px solid #629e2d !important;">
+        <div class="col-md-6" data-aos="fade-left" data-aos-duration="800">
+          <!-- ratio ratio-4x3 shadow-sm rounded border -->
+           <!-- style="border:2px solid #c8e9ee !important;" -->
+          <div class="h-100" >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14015.07629207536!2d77.2089802!3d28.6139391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3e3e5d8b2cf%3A0x59f5a4be5ea88d3b!2sConnaught%20Place%2C%20New%20Delhi%2C%20Delhi%20110001!5e0!3m2!1sen!2sin!4v1623855843093!5m2!1sen!2sin"
-              style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.011676015861!2d77.18490280000002!3d28.569412099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d837cbc445f%3A0x3b12f7855cfd686c!2sHyatt%20Regency%20Delhi!5e0!3m2!1sen!2sin!4v1758963822109!5m2!1sen!2sinn"
+              style="border:0;" allowfullscreen="" loading="lazy"
               referrerpolicy="no-referrer-when-downgrade">
             </iframe>
           </div>

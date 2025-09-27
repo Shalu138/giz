@@ -67,6 +67,7 @@ $route['login']='Home/login';
 $route['thankyou']='Home/thankyou';
 $route['index']='Home/index';
 $route['legal']='Home/legal';
+$route['contact']='Home/contact';
 $route['speakers']='Home/speakers';
 $route['programme']='Home/programme';
 $route['venue']='Home/venue';
